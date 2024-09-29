@@ -1,0 +1,13 @@
+<div class="container">
+
+<nav class="navbar navbar-expand-sm justify-content-center bg-primary text-white">
+<h1>{{site.title}}</h1>
+ <ul class="navbar-nav">
+ <li class="nav-item"><a class="nav-link text-white" href="{{ item.link }}" >{{site.title }} </a></li>
+ {% for item in site.data.navigation %}
+ <li class="nav-item"><a class="nav-link text-white" href="{{ item.link }}" >{{ item.name }} </a></li>
+  {% endfor %}
+  </ul>
+</nav>
+
+</div>
