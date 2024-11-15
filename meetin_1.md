@@ -1,8 +1,8 @@
 
 
-Mail de Pierre Yves Guerder présentant la réunion du 14.09.2024 en zoom  
+#Mail de Pierre Yves Guerder présentant la réunion du 14.09.2024 en zoom  
 
-Voici mes quelques notes prises pendant la réunion, en présence de Fernand Marquant, Martine Lucas, Anne Buysens et Brigitte Dehin.  
+##Voici mes quelques notes prises pendant la réunion, en présence de Fernand Marquant, Martine Lucas, Anne Buysens et Brigitte Dehin.  
 Absents excusés : Philippe Regent et Thierry Deneux
 
 La numérotation a été ajoutée pour faciliter les références. Le texte en italique complète les  notes de Pierre-Yves et sont des ajouts de Brigitte. Les tâches incombant à l’équipe Mess’AJE sont surlignées en fluo.
