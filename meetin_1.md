@@ -68,37 +68,43 @@ Nous pouvons communiquer par e-mail entretemps, si possible plutôt avec un « c
 En cas de difficultés pour ouvrir le site, il est recommandé de faire une capture d’écran, de noter le message d’erreur, et de l’envoyer à Pierre-Yves, en indiquant le navigateur utilisé.
 py@guerder.fr    
 
+# Mail de Pauline Guerder du 27.09.2024
 
-Mail de Pauline Guerder du 27.09.2024
 Pour vos réflexions quelques idées générales : 
-    • toujours penser à qui s'adresse le site : visiteurs inconnus, hiérarchie catholique, membres actuels de mess'aje, anciens membres de mess'aje
-    • définir à quel public s'adresse la page
-    • Mess'AJE international ne doit pas être un site de remplacement pour les Mess'AJE pays. On peut faire des liens (par exemple : dans la page présentation de Mess'AJE, à la fin on peut indiquer : pour en savoir plus sur la présence de MEss'AJE près de chez vous, cliquez ici (et mettre le lien de la page "pays") cela demande à chaque pays de mettre à jour sa page et à la page "présentation Mess'AJE" d'être toujours à jour)
+- toujours penser à qui s'adresse le site : visiteurs inconnus, hiérarchie catholique, membres actuels de mess'aje, anciens membres de mess'aje
+- définir à quel public s'adresse la page
+- Mess'AJE international ne doit pas être un site de remplacement pour les Mess'AJE pays. On peut faire des liens (par exemple : dans la page présentation de Mess'AJE, à la fin on peut indiquer : pour en savoir plus sur la présence de MEss'AJE près de chez vous, cliquez ici (et mettre le lien de la page "pays") cela demande à chaque pays de mettre à jour sa page et à la page "présentation Mess'AJE" d'être toujours à jour)
 Pour l'arborescence du site :
-    • ne partez pas du site actuel. Faites d'abord un brainstorming sur ce qu'il doit y avoir dans le site
-    • organiser les réponses en catégories et sous catégories
-    • vous aurez ainsi les grandes pages de votre site
-    • cherchez ensuite ce qui est récupérable dans le site actuel pour ces pages et faites l'inventaire de ce qui manque
-    • listez ce qui doit être supprimé dans le site
-Exemple : 
+- ne partez pas du site actuel. Faites d'abord un brainstorming sur ce qu'il doit y avoir dans le site
+- organiser les réponses en catégories et sous catégories
+- vous aurez ainsi les grandes pages de votre site
+- cherchez ensuite ce qui est récupérable dans le site actuel pour ces pages et faites l'inventaire de ce qui manque
+- listez ce qui doit être supprimé dans le site
+
+###Exemple : 
+
 Si le site s'adresse aux anciens et membres actuels : il faut les prochains évènements de Mess'AJE en langue française. Il faut les trouver facilement..... donc il faut une page agenda avec un lien par le menu et sur la page accueil
-Pour les visiteurs divers, ceux-ci doivent pouvoir comprendre ce qu'est Mess'aje, qu'est ce que ça va leur apporter.... donc, présentation de Mess'aje (les ponctuels, les 4 seuils...), historique
+
+Pour les visiteurs divers, ceux-ci doivent pouvoir comprendre ce qu'est Mess'aje, qu'est ce que ça va leur apporter.... donc, présentation de Mess'aje (les ponctuels, les 4 seuils...), historique 
+
 pour la hiérarchie : une page en pratique avec liens pour trouver les contacts près de chez eux...
+
 Donc avec ce bout de réflexions (incomplètes puisqu'un exemple) voici le menu qui aboutit :
-    • Accueil : présentation simple + lien agenda
-    • Présentation de Mess'AJE : 
-        ◦ histoire
-        ◦ présentation de la catéchèse avec ses 5 entrées
-        ◦ ponctuels
-        ◦ seuils
-        ◦ témoignages
-    • Comment organiser MESS'AJE dans sa paroisse... : réponses aux questions pratiques + lien vers les pages pays + contacts
-    • Agenda/formation
-    • Pays
-        ◦ France 
-        ◦ Belgique
-        ◦ .... chaque pays à sa page ou le lien vers son site.
-    • Contacts
+- Accueil : présentation simple + lien agenda
+- Présentation de Mess'AJE : 
+  - histoire
+  - présentation de la catéchèse avec ses 5 entrées
+  - ponctuels
+  - seuils
+  - témoignages
+- Comment organiser MESS'AJE dans sa paroisse... : réponses aux questions pratiques + lien vers les pages pays + contacts
+- Agenda/formation
+- Pays
+  - France 
+  - Belgique
+  - chaque pays à sa page ou le lien vers son site.
+- Contacts
+- 
 Ceci n'est qu'une piste de réflexion !
 Amicalement
 Pauline Guerder
