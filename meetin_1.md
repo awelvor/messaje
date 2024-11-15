@@ -81,7 +81,7 @@ Pour l'arborescence du site :
 - cherchez ensuite ce qui est récupérable dans le site actuel pour ces pages et faites l'inventaire de ce qui manque
 - listez ce qui doit être supprimé dans le site
 
-###Exemple : 
+### Exemple : 
 
 Si le site s'adresse aux anciens et membres actuels : il faut les prochains évènements de Mess'AJE en langue française. Il faut les trouver facilement..... donc il faut une page agenda avec un lien par le menu et sur la page accueil
 
@@ -104,7 +104,7 @@ Donc avec ce bout de réflexions (incomplètes puisqu'un exemple) voici le men
   - Belgique
   - chaque pays à sa page ou le lien vers son site.
 - Contacts
-- 
+
 Ceci n'est qu'une piste de réflexion !
 Amicalement
 Pauline Guerder
